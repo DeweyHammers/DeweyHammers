@@ -10,4 +10,5 @@ he/him
 
 ### 📭 Contact
 
-* LinkedIn: [richard-dewey-hammers](https://www.linkedin.com/in/richard-dewey-hammers/)
+- email: [hammersdrichard@gmail.com](mailto:hammersdrichard@gmail.com)
+- LinkedIn: [richard-dewey-hammers](https://www.linkedin.com/in/richard-dewey-hammers/)
