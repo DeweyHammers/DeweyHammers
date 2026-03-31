@@ -2,9 +2,9 @@
 
 Hi I'm Dewey Hammers. I'm a husband, father, and a software engineer. I'm passionate about full-stack web development and building solid, interactive applications with Next.js and TypeScript.
 
-### 🚀 Lets build something together
+## :rocket: Lets build something together
 
-### 🔗 Pronouns
+### :boy: Pronouns
 
 he/him
 
