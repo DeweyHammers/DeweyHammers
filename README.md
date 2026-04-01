@@ -4,10 +4,6 @@ Hi I'm Dewey Hammers. I'm a husband, father, and a software engineer. I'm passio
 
 ## :rocket: Lets build something together
 
-### :boy: Pronouns
-
-he/him
-
 ### 📭 Contact
 
 - Portfolio: [richarddhammers](https://richarddhammers.netlify.app/)
