@@ -4,7 +4,7 @@ I'm Dewey Hammers, a full-stack engineer focused on building scalable, high-perf
 
 I primarily work with **TypeScript, Next.js, and Node.js**, and enjoy solving real-world problems through clean architecture and efficient systems. My work often involves building production-ready applications, optimizing performance, and designing reliable backend workflows.
 
-I also leverage AI tools like ChatGPT and Gemini to accelerate development, improve code quality, and explore better implementation strategies.
+I leverage artificial intelligence to accelerate development cycles and implement smart features that solve complex user problems.
 
 Outside of coding, I’m a husband and father who enjoys building things that actually get used.
 
