@@ -22,23 +22,17 @@ Outside of coding, I’m a husband and father who enjoys building things that ac
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-TypeScript, JavaScript
+**Languages:** TypeScript, JavaScript
 
-**Frontend:**  
-React, Next.js, Material UI, Zod
+**Frontend:** React, Next.js, Material UI, Zod
 
-**Backend:**  
-Node.js, REST API Development
+**Backend:** Node.js, REST API Development
 
-**Database:**  
-Prisma, PostgreSQL, SQL
+**Database:** Prisma, PostgreSQL, SQL
 
-**Cloud & Tools:**  
-AWS S3, Git, Vercel, Supabase, Sentry, Jest
+**Cloud & Tools:** AWS S3, Git, Vercel, Supabase, Sentry, Jest
 
-**AI & Machine Learning:**  
-Google Gemini & CLI, OpenAI, Prompt Engineering, RAG, AI Workflows
+**AI & Machine Learning:** Google Gemini & CLI, OpenAI, Prompt Engineering, RAG, AI Workflows
 
 ---
 
