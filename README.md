@@ -39,6 +39,14 @@ AWS S3, Sentry, Git
 
 ---
 
+## 🧠 Currently Exploring
+
+* Building AI-powered tools and workflows
+* Improving prompt design for structured outputs
+* Exploring ways to integrate AI into real-world applications
+
+---
+
 ## 🌐 Portfolio
 
 Take a look at some of my work:  
