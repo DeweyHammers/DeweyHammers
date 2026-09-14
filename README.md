@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dewey Hammers, a full-stack engineer moving toward infrastructure and security.
+I'm Dewey Hammers, a full-stack engineer moving into cybersecurity.
 
 I've spent 4+ years building production web applications with **TypeScript, Next.js, and Node.js** — clean architecture, reliable backend workflows, and systems that hold up under real use. These days I'm extending that into the layer underneath: Linux, containers, CI/CD pipelines, and the security side of how software actually gets shipped and defended.
 
@@ -37,7 +37,7 @@ Outside of coding, I'm a husband and father who enjoys building things that actu
 
 ## 🧠 Currently Learning
 
-Working toward DevOps/DevSecOps through the **Flatiron School Cybersecurity Professional Certificate** and the **Boot.dev DevOps path**:
+Cybersecurity through the **Flatiron School Cybersecurity Professional Certificate**, plus DevOps fundamentals through the **Boot.dev DevOps path**:
 
 * Linux administration and shell scripting
 * Networking fundamentals — TCP/IP, DNS, subnetting, packet analysis with Wireshark
