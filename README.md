@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-I'm Dewey Hammers, a full-stack engineer focused on building scalable, high-performance web applications.
+I'm Dewey Hammers, a full-stack engineer moving toward infrastructure and security.
 
-I primarily work with **TypeScript, Next.js, and Node.js**, and enjoy solving real-world problems through clean architecture and efficient systems. My work often involves building production-ready applications, optimizing performance, and designing reliable backend workflows.
+I've spent 4+ years building production web applications with **TypeScript, Next.js, and Node.js** — clean architecture, reliable backend workflows, and systems that hold up under real use. These days I'm extending that into the layer underneath: Linux, containers, CI/CD pipelines, and the security side of how software actually gets shipped and defended.
 
-I leverage artificial intelligence to accelerate development cycles and implement smart features that solve complex user problems.
-
-Outside of coding, I’m a husband and father who enjoys building things that actually get used.
+Outside of coding, I'm a husband and father who enjoys building things that actually get used.
 
 ---
 
@@ -14,39 +12,49 @@ Outside of coding, I’m a husband and father who enjoys building things that ac
 
 * Build full-stack applications with **Next.js + TypeScript**
 * Design and optimize **backend systems and APIs**
-* Integrate **AI-powered features using OpenAI**
 * Work with **cloud services (AWS S3)** for automation and storage
+* Ship **AI-powered features** — structured outputs, RAG, and workflow automation
 * Focus on **performance, scalability, and maintainability**
 
 ---
 
 ## 🧰 Tech Stack
 
-* **Languages:** TypeScript, JavaScript
+* **Languages:** TypeScript, JavaScript, Python
 * **Frontend:** React, Next.js, Material UI, Zod
 * **Backend:** Node.js, REST API Development
 * **Database:** Prisma, PostgreSQL, SQL
 * **Cloud & Tools:** AWS S3, Git, Vercel, Supabase, Sentry, Jest
-* **AI:** Google Gemini & CLI, OpenAI, Prompt Engineering, RAG, AI Workflows
+* **AI:** OpenAI, Google Gemini & CLI, Prompt Engineering, RAG
 
 ---
 
-## 🧠 Currently Exploring
+## 🔭 Currently Building
 
-* Building AI-powered tools and workflows
-* Improving prompt design for structured outputs
-* Exploring ways to integrate AI into real-world applications
+**AKEY Music** — a browser-based web app that turns a QWERTY keyboard into a playable piano. Co-founded and actively in development.
+
+---
+
+## 🧠 Currently Learning
+
+Working toward DevOps/DevSecOps through the **Flatiron School Cybersecurity Professional Certificate** and the **Boot.dev DevOps path**:
+
+* Linux administration and shell scripting
+* Networking fundamentals — TCP/IP, DNS, subnetting, packet analysis with Wireshark
+* Containerization and CI/CD pipelines
+* Python for security tooling and automation
+* Security operations fundamentals (SOC analysis, Security+ material)
 
 ---
 
 ## 🌐 Portfolio
 
-Take a look at some of my work:  
+Take a look at some of my work:
 👉 https://richarddhammers.netlify.app/
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/richard-dewey-hammers/  
+* LinkedIn: https://www.linkedin.com/in/richard-dewey-hammers/
 * Email: [hammersdrichard@gmail.com](mailto:hammersdrichard@gmail.com)
