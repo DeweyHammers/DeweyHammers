@@ -23,15 +23,20 @@ Outside of coding, I'm a husband and father who enjoys building things that actu
 * **Languages:** TypeScript, JavaScript, Python
 * **Frontend:** React, Next.js, Material UI, Zod
 * **Backend:** Node.js, REST API Development
-* **Database:** Prisma, PostgreSQL, SQL
-* **Cloud & Tools:** AWS S3, Git, Vercel, Supabase, Sentry, Jest
+* **Database:** Prisma, PostgreSQL, SQLite, SQL
+* **Desktop:** Electron (Nextron)
+* **Cloud & Tools:** AWS S3, Git, Vercel, Supabase, Sentry, Jest, Vitest
 * **AI:** OpenAI, Google Gemini & CLI, Prompt Engineering, RAG
 
 ---
 
 ## 🔭 Currently Building
 
-**AKEY Music** — a browser-based web app that turns a QWERTY keyboard into a playable piano. Co-founded and actively in development.
+**[Finances OS](https://github.com/DeweyHammers/finances-os)** — a desktop cash-flow app that plans each paycheck against monthly bills. Zero-based budgeting, per-account ledgers, and an optimizer that balances bills across pay weeks three years out so every week keeps a target surplus.
+
+* **Stack:** Electron (Nextron), Next.js, TypeScript, Prisma + SQLite, Refine, MUI, Vitest
+* 250+ tests, pre-push test gate, and a generated [picture tour](https://deweyhammers.github.io/finances-os/)
+* Built for daily use — it runs my own household budget
 
 ---
 
@@ -39,11 +44,13 @@ Outside of coding, I'm a husband and father who enjoys building things that actu
 
 Cybersecurity through the **Flatiron School Cybersecurity Professional Certificate**, plus DevOps fundamentals through the **Boot.dev DevOps path**:
 
-* Linux administration and shell scripting
 * Networking fundamentals — TCP/IP, DNS, subnetting, packet analysis with Wireshark
-* Containerization and CI/CD pipelines
+* Linux and web server hardening against CIS Benchmarks with Lynis
+* Cloud security — securing cloud web servers, cloud threats and best practices
+* Active Directory attack and system hardening
 * Python for security tooling and automation
-* Security operations fundamentals (SOC analysis, Security+ material)
+* Containerization and CI/CD pipelines (Boot.dev)
+* Security operations fundamentals (SOC analysis, Security+ self-study)
 
 ---
 
